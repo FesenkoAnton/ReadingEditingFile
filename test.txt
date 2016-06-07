@@ -1,0 +1,12 @@
+A musical example of migrating C code to Java.
+ 
+It has long been recognized that there is a correlation between software development 
+aptitude and music appreciation. This is the first in a series of articles that leverages 
+that correlation by featuring aspects of Java (and related APIs) for developing applications 
+in the music domain. The applications in this series typically perform music analysis or algorithmic composition.
+ 
+The application that I'd like to begin highlighting in this article is one that I developed, 
+known as Counterpoint Composer.  This application will serve, among other things, as an example 
+of migrating a procedural C program into an object-oriented Java program.   Before diving into 
+relevant portions of the code, it will be helpful to explore a bit of an introduction to counterpoint music.
+  
